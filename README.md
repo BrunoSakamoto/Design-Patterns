@@ -1,5 +1,16 @@
 # Designs Patterns
 
+Foi feito um jogo em java seguindo os padrões de POO(Programação Orienatda a Objeto).
+Nesse jogo funciona como um RPG de turno, ou seja, uma hora o personagem ataca e outra ele defende.
+
+Existem quatros botões na interface realizam o funcionamento desse jogo.
+- Ataque
+- Defesa
+- Poder Especial
+- Trocar Personagem
+
+O jogo consiste em 4 fases de níveis incrementais, ou seja, a cada inimigo derrotado fica mais difícil de derrotar o próximo
+
 ## 1. Factory - Criacional
 <img width="292" alt="Factory" src="https://github.com/user-attachments/assets/43db4cad-6b20-4e08-a12a-63db3aa17878">
 <p></p>
