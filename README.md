@@ -44,4 +44,4 @@ O uso de JPanel como um contêiner para organizar botões e outros componentes r
 <p></p>
 O PopUp atua como um mediador para gerenciar a interação entre o jogador e a escolha do personagem. Ele encapsula as interações e comunica o resultado ao sistema principal.
 
-
+## Feito por Bruno e Pablo
